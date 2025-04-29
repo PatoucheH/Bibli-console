@@ -1,0 +1,14 @@
+C:\code\DotNet\CSharpProject\BibliConsole\bin\Debug\net9.0\BibliConsole.exe
+C:\code\DotNet\CSharpProject\BibliConsole\bin\Debug\net9.0\BibliConsole.deps.json
+C:\code\DotNet\CSharpProject\BibliConsole\bin\Debug\net9.0\BibliConsole.runtimeconfig.json
+C:\code\DotNet\CSharpProject\BibliConsole\bin\Debug\net9.0\BibliConsole.dll
+C:\code\DotNet\CSharpProject\BibliConsole\bin\Debug\net9.0\BibliConsole.pdb
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\BibliConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\BibliConsole.AssemblyInfoInputs.cache
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\BibliConsole.AssemblyInfo.cs
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\BibliConsole.csproj.CoreCompileInputs.cache
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\BibliConsole.dll
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\refint\BibliConsole.dll
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\BibliConsole.pdb
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\BibliConsole.genruntimeconfig.cache
+C:\code\DotNet\CSharpProject\BibliConsole\obj\Debug\net9.0\ref\BibliConsole.dll
